@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/us234/v2ray-cat",
-  "repository": "https://github.com/us234/v2ray-cat",
+  "website": "https://github.com/ygcv/look3",
+  "repository": "https://github.com/ygcv/look3",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
